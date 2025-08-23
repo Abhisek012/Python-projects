@@ -28,4 +28,4 @@ print(f"Each person owes: {share}")
 for name in names:
     print(f"{name} owes {share} rupees")
 
-print("\n" + "*"*40)
+print("\n" + "*"*40)     
