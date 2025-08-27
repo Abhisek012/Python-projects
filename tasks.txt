@@ -1,0 +1,3 @@
+Gym||not_done
+Sleep||done
+wake up||not_done

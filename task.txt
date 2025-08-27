@@ -1,0 +1,3 @@
+Eating || not_done
+gym || done
+sleep || not_done
